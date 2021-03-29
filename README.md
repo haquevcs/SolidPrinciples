@@ -8,14 +8,14 @@
 5. **D** stands for Dependency Inversion Principle which is also known as **DIP**.
 
 # SOLID Design Principles in C# with Real-world Examples
-5 Priciples Advantages in C#
+## 5 Priciples Advantages in C#
 
 As a developer, while you are designing and developing any software applications, then you need to take care of the following points.
 
-1. Maintainability
-2. Testability
-3. Flexibility and Extensibility
-4. Parallel Development
+## 1. Maintainability
+## 2. Testability
+## 3. Flexibility and Extensibility
+## 4. Parallel Development
 
 So, the 5 Design Principles and Design Patterns play an important role in achieving all of the above key points.
 
