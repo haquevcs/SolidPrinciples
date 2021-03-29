@@ -39,7 +39,7 @@ namespace SolidPriciple.SRP.NotGood
 
                 // Here we need to write the Code for adding invoice
                 // Once the Invoice has been added, then send the  mail
-                //Email send - just written for an idea of responsibility defied in invoice class
+                //Email send - just written for an idea of responsibility defined  in invoice class
                 /*
                  * 
                  MailMessage mailMessage = new MailMessage("EMailFrom", "EMailTo", "EMailSubject", "EMailBody");
