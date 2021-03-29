@@ -1,0 +1,14 @@
+D:\Patterns\Solid\SRP\bin\Debug\SRP.exe.config
+D:\Patterns\Solid\SRP\bin\Debug\SRP.exe
+D:\Patterns\Solid\SRP\bin\Debug\SRP.pdb
+D:\Patterns\Solid\SRP\obj\Debug\SRP.csprojAssemblyReference.cache
+D:\Patterns\Solid\SRP\obj\Debug\SRP.csproj.CoreCompileInputs.cache
+D:\Patterns\Solid\SRP\obj\Debug\SRP.exe
+D:\Patterns\Solid\SRP\obj\Debug\SRP.pdb
+D:\Gits\SolidPriciples\SRP\bin\Debug\SRP.exe.config
+D:\Gits\SolidPriciples\SRP\bin\Debug\SRP.exe
+D:\Gits\SolidPriciples\SRP\bin\Debug\SRP.pdb
+D:\Gits\SolidPriciples\SRP\obj\Debug\SRP.csprojAssemblyReference.cache
+D:\Gits\SolidPriciples\SRP\obj\Debug\SRP.csproj.CoreCompileInputs.cache
+D:\Gits\SolidPriciples\SRP\obj\Debug\SRP.exe
+D:\Gits\SolidPriciples\SRP\obj\Debug\SRP.pdb

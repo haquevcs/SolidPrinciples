@@ -1,0 +1,14 @@
+D:\Patterns\Solid\OCP\bin\Debug\OCP.exe.config
+D:\Patterns\Solid\OCP\bin\Debug\OCP.exe
+D:\Patterns\Solid\OCP\bin\Debug\OCP.pdb
+D:\Patterns\Solid\OCP\obj\Debug\OCP.csprojAssemblyReference.cache
+D:\Patterns\Solid\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+D:\Patterns\Solid\OCP\obj\Debug\OCP.exe
+D:\Patterns\Solid\OCP\obj\Debug\OCP.pdb
+D:\Gits\SolidPriciples\OCP\bin\Debug\OCP.exe.config
+D:\Gits\SolidPriciples\OCP\bin\Debug\OCP.exe
+D:\Gits\SolidPriciples\OCP\bin\Debug\OCP.pdb
+D:\Gits\SolidPriciples\OCP\obj\Debug\OCP.csprojAssemblyReference.cache
+D:\Gits\SolidPriciples\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+D:\Gits\SolidPriciples\OCP\obj\Debug\OCP.exe
+D:\Gits\SolidPriciples\OCP\obj\Debug\OCP.pdb
