@@ -1,4 +1,12 @@
 # Solid Design 5 Principles using C# .Net
+
+# SOLID Acronym
+1. S stands for the Single Responsibility Principle which is also known as SRP.
+2. O stands for the Open-Closed Principle which is also known as OSP.
+3. L stands for the Liskov Substitution Principle which is also known as LSP.
+4. I stand for the Interface Segregation Principle which is also known as ISP.
+5. D stands for Dependency Inversion Principle which is also known as DIP.
+
 # SOLID Design Principles in C# with Real-world Examples
 5 Priciples Advantages in C#
 
