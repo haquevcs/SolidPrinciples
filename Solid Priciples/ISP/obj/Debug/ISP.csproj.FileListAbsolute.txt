@@ -1,0 +1,7 @@
+D:\Patterns\Solid\ISP\bin\Debug\ISP.exe.config
+D:\Patterns\Solid\ISP\bin\Debug\ISP.exe
+D:\Patterns\Solid\ISP\bin\Debug\ISP.pdb
+D:\Patterns\Solid\ISP\obj\Debug\ISP.csprojAssemblyReference.cache
+D:\Patterns\Solid\ISP\obj\Debug\ISP.csproj.CoreCompileInputs.cache
+D:\Patterns\Solid\ISP\obj\Debug\ISP.exe
+D:\Patterns\Solid\ISP\obj\Debug\ISP.pdb
