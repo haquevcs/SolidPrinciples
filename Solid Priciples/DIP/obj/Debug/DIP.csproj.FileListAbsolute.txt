@@ -1,7 +1,0 @@
-D:\Patterns\Solid\DIP\bin\Debug\DIP.exe.config
-D:\Patterns\Solid\DIP\bin\Debug\DIP.exe
-D:\Patterns\Solid\DIP\bin\Debug\DIP.pdb
-D:\Patterns\Solid\DIP\obj\Debug\DIP.csprojAssemblyReference.cache
-D:\Patterns\Solid\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
-D:\Patterns\Solid\DIP\obj\Debug\DIP.exe
-D:\Patterns\Solid\DIP\obj\Debug\DIP.pdb

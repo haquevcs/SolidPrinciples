@@ -1,7 +1,0 @@
-D:\Patterns\Solid\LSP\bin\Debug\LSP.exe.config
-D:\Patterns\Solid\LSP\bin\Debug\LSP.exe
-D:\Patterns\Solid\LSP\bin\Debug\LSP.pdb
-D:\Patterns\Solid\LSP\obj\Debug\LSP.csprojAssemblyReference.cache
-D:\Patterns\Solid\LSP\obj\Debug\LSP.csproj.CoreCompileInputs.cache
-D:\Patterns\Solid\LSP\obj\Debug\LSP.exe
-D:\Patterns\Solid\LSP\obj\Debug\LSP.pdb
